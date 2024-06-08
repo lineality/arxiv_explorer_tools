@@ -11,3 +11,6 @@ alpha version of tool to run locally to inspect daily arxiv articles for topics 
 -- adjustable overall threshold
 - saves a json of article data
 - saves html of article data
+
+### currently:
+- json notebook, but can be script e.g. to run schedules once per day
