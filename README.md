@@ -1,4 +1,6 @@
 #### arxiv_explorer_tools
+https://medium.com/@GeoffreyGordonAshbrook/search-with-non-generative-ai-d0a3cc77164b
+
 
 # Arxiv Explorer Tools
 
