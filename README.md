@@ -9,8 +9,6 @@ alpha version of tool to run locally to inspect daily arxiv articles for topics 
 - adjustable and customizable with a variety of vector-distance measures:
 -- adjustable thresholds per measure
 -- adjustable overall threshold
-- saves a json of article data
-- saves html of article data
+- saves a json of search-match article data
+- saves html of search-match article data
 
-### currently:
-- json notebook, but can be script e.g. to run schedules once per day
