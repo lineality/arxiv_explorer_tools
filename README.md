@@ -14,3 +14,9 @@ alpha version of tool to run locally to inspect daily arxiv articles for topics 
 - saves a json of search-match article data
 - saves html of search-match article data
 
+## Best performance appears to be: 
+- Very approximately on average as times and file-sizes vary.
+1. BM25 2 sec
+2. Weighted Match 5 sec
+3. Embedding Model: 5 min
+4. TF-IDF 10 min
