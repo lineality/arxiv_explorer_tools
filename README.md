@@ -20,3 +20,7 @@ alpha version of tool to run locally to inspect daily arxiv articles for topics 
 2. Weighted Match 5 sec
 3. Embedding Model: 5 min
 4. TF-IDF 10 min
+
+
+## Weighted Match is very portable and configurable.
+- arxiv_tool_minimal_weighted_match_vN.ipynb
