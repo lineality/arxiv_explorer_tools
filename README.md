@@ -1,6 +1,8 @@
 #### arxiv_explorer_tools
 https://medium.com/@GeoffreyGordonAshbrook/search-with-non-generative-ai-d0a3cc77164b
 
+## Live Shared Minimal Search
+- https://colab.research.google.com/drive/1HVb8FCyn3Z-mT87uNrjEmpbPgzGCmJUu
 
 # Arxiv Explorer Tools
 
