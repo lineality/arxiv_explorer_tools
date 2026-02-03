@@ -4,6 +4,9 @@ https://medium.com/@GeoffreyGordonAshbrook/search-with-non-generative-ai-d0a3cc7
 ## Live Shared Minimal Search
 - https://colab.research.google.com/drive/1HVb8FCyn3Z-mT87uNrjEmpbPgzGCmJUu
 
+## Policy FAQ Search: BM25 & TF/IDF
+- https://colab.research.google.com/drive/1Pj-LRmm-raiG0_GVE9HyVpE4SkJ7uPz2
+
 # Arxiv Explorer Tools
 
 alpha version of tool to run locally to inspect daily arxiv articles for topics of interest
